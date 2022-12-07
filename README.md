@@ -1,10 +1,11 @@
--- package:
-
-- material UI
-- react-router-dom
-- redux
-- react-redux
-- redux-thunk
-- axios
-
---
+Features:
+Login, logout, register.
+Searching hotel rooms depend on places on the map.
+Booking hotel rooms.
+Display locations and hotel rooms
+Fully responsive.
+Admin Features: CRUD locations, rooms, users.
+Technologies:
+ReactJS
+Material UI, Formik, yup, react router dom, redux, redux thunk, react-map-gl and mapbox, axios,..
+Live Demo: https://air-bnb-react.vercel.app/
